@@ -1,0 +1,12 @@
+/gmall-parent.iml
+/gmall-api/gmall-api.iml
+/gmall-admin-web/.gitignore
+/gmall-admin-web/HELP.md
+/gmall-admin-web/mvnw
+/gmall-admin-web/mvnw.cmd
+/gmall-admin-web/.mvn/
+/gmall-admin/.mvn/
+/gmall-admin/.gitignore
+/gmall-admin/HELP.md
+/gmall-admin/mvnw
+/gmall-admin/mvnw.cmd
